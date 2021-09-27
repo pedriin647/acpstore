@@ -4,7 +4,8 @@
 
 ### Este projeto foi o primeiro site que fiz quando estava aprendendo frontend. Nada demais, apenas utilizei html, css e bootstrap.
 <p>
-  O projeto foi realizado a um ano atrás, por volta de agosto de 2020, quando eu estava começando a aprender sobre bootstrap.
+  O projeto foi realizado a um ano atrás, por volta de agosto de 2020, quando eu estava começando a aprender sobre bootstrap. Para colocar os conhecimentos aprendidos em prática fiz uma interface de uma loja virtual de tênis, onde se tem os produtos, um menu de busca, cabeçalho e rodapés. Nada funcional, apenas construi o front-end da página.
+  
 Eu achei este código recentemente em meus arquivos, e vi que ele estava hospedado em uma host free. Achei válido colocar o mesmo no github para mantê-lo salvo.
 </p>
 
